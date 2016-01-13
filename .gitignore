@@ -1,0 +1,8 @@
+.idea
+hello-maven.iml
+code-maven-plugin/code-maven-plugin.iml
+code-maven-plugin/target/
+viesti-plugin/target
+viesti-plugin/viesti-plugin.iml
+
+target/
